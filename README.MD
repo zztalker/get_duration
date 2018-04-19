@@ -7,3 +7,4 @@ Usage:
     python get_duration.py some\path\with\videos [--v]
 
 --v for verbose output
+--error print filenames with errors
